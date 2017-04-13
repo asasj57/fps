@@ -1,4 +1,4 @@
 vod aa()
 {
-
+int a;
 }
